@@ -20,7 +20,7 @@ cp .env.example .env
 Variables necesarias:
 
 ```bash
-VITE_SUPABASE_URL=https://incdfuzrzamixmnlvpas.supabase.co
+VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=tu_llave_publica
 ```
 
